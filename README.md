@@ -1,4 +1,4 @@
-## Hi there, I'm YashWickramasinghe [website] 👋
+## Hi there, I'm Yasiru Wickramasinghe [website] 👋
 
 
 ## I'm a  Undergraduate Student, Full Stack Developer, Problem Solver, Creative Designer
