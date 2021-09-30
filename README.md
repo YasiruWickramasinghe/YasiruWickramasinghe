@@ -13,18 +13,17 @@
 
 - ⚡ **Fun fact: I love to play guitar**
 
-- 😄 Pronouns: **He/Him**
+- 😄 **Pronouns: He/Him**
 
-- 👨‍💻 All of my projects are available on **[ Git ]("https://github.com/YasiruWickramasinghe")**
+- 👨‍💻 **All of my projects are available on [ Git ]("https://github.com/YasiruWickramasinghe")**
 
-- 📫 How to reach me **yasirusajith19970331@gmail.com**
+- 📫 **How to reach me yasirusajith19970331@gmail.com**
 
 
 ## **2.  Languages and Tools**
 
 <p align="left"> 
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
-    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/plasticine/100/000000/react.png"/> </a>
     <a href="https://vuejs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/vue-js.png"/> </a>
     </a> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
@@ -65,8 +64,6 @@
     <a href="https://github.com/YasiruWickramasinghe/github-readme-stats"><img alt="YasiruWickramasinghe's Github Stats" src="https://github-readme-stats.vercel.app/api?username=YasiruWickramasinghe&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=060A0CD0" /></a>
   <a href="https://github.com/YasiruWickramasinghe/github-readme-stats"><img alt="Malith Anjana's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YasiruWickramasinghe&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=060A0CD0" /></a>
   <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
 
 <br/>
 <br/>
@@ -75,7 +72,6 @@
 
 <br/>
 <br/>
-
 
 
 ## **4. ❤ Views and Followers**
