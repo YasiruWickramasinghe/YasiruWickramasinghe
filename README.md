@@ -61,14 +61,14 @@
 ## **3.  My Github Stats**
 
   <br/>
-    <a href="https://github.com/YasiruWickramasinghe/github-readme-stats"><img alt="YasiruWickramasinghe's Github Stats" src="https://github-readme-stats.vercel.app/api?username=YasiruWickramasinghe&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=060A0CD0" /></a>
-  <a href="https://github.com/YasiruWickramasinghe/github-readme-stats"><img alt="Malith Anjana's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YasiruWickramasinghe&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=060A0CD0" /></a>
+    //<a href="https://github.com/YasiruWickramasinghe/github-readme-stats"><img alt="YasiruWickramasinghe's Github Stats" src="https://github-readme-stats.vercel.app/api?username=YasiruWickramasinghe&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=060A0CD0" /></a>
+  //<a href="https://github.com/YasiruWickramasinghe/github-readme-stats"><img alt="Malith Anjana's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YasiruWickramasinghe&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=060A0CD0" /></a>
   <br/>
 
 <br/>
 <br/>
 
-<a href="https://github.com/YasiruWickramasinghe/github-readme-activity-graph"><img alt="Malith's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=YasiruWickramasinghe&bg_color=060A0CD0&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+//<a href="https://github.com/YasiruWickramasinghe/github-readme-activity-graph"><img alt="Yasiru's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=YasiruWickramasinghe&bg_color=060A0CD0&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
