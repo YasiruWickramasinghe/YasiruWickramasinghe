@@ -17,7 +17,7 @@
 
 - 👨‍💻 **All of my projects are available on [ Git ]("https://github.com/YasiruWickramasinghe")**
 
-- 📫 **How to reach me yasirusajith19970331@gmail.com**
+- 📫 **How to reach me yasirucareer@gmail.com**
 
 
 ## **2.  Languages and Tools**
