@@ -1,7 +1,7 @@
 <!-- <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a> -->
 
 <h1 align="center">Hi there<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Yasiru Wickramasinghe </h1>
-<h3 align="center">I'm a  Undergraduate Student, Full Stack Developer, Problem Solver, Creative Designer.</h3>
+<h3 align="center">I'm a Fresh Graduate, Full Stack Developer, Problem Solver, Creative Designer.</h3>
 
 
 ## **1. About Me**
