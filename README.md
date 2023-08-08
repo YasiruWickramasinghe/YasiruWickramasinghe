@@ -17,7 +17,7 @@
 
 - 👨‍💻 **All of my projects are available on [ Git ]("https://github.com/YasiruWickramasinghe")**
 
-- 📫 **How to reach me yasirucareer@gmail.com**
+- 📫 **How to reach me https://yasiruvisions.netlify.app/**
 
 
 ## **2.  Languages and Tools**
@@ -36,7 +36,6 @@
     <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/> </a>
     <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/> </a>
     <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> </a>
-    <a href="https://visualstudio.microsoft.com/" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/visual-studio-2019.png"/> </a>
     <a href="https://www.php.net/" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/php.png"/> </a>
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" width="48" height="48"/> </a>
     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="48" height="48"/> </a> 
