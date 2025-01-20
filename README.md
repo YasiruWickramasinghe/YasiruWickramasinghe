@@ -9,7 +9,7 @@
 
 - 👯 **Open to exciting collaborations with fellow developers.**
 
-- 🥅 **2024 Goals: Contribute some awesome  projects**
+- 🥅 **2025 Goals: Contribute some awesome  projects**
 
 - ⚡ **Fun fact: I love to play guitar**
 
